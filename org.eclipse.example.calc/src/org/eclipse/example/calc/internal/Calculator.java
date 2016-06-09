@@ -9,6 +9,8 @@
  *******************************************************************************/
 package org.eclipse.example.calc.internal;
 
+// Dummy comment - very valuable
+
 import org.eclipse.example.calc.BinaryOperation;
 import org.eclipse.example.calc.Operation;
 import org.eclipse.example.calc.Operations;
